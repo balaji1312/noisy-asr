@@ -1,1 +1,1 @@
-Refer to readme.txt
+Refer to readme.txt for instructions
